@@ -8,7 +8,7 @@ class Dog
     @breed = breed
     @name = name
     @age = age
-    @@array.push(Dog.new)
+    @@array.push(breed, name, age)
   end
   
   def all
