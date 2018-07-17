@@ -2,6 +2,8 @@ class Dog
   
   attr_accessor :breed, :name, :age
   
+  @@array = []
+  
   def initialize (breed, name, age)
     @breed = breed
     @name = name
@@ -9,7 +11,7 @@ class Dog
   end
   
   def all
-    []
+    
   end
   # Replace with Dog clas
 end
