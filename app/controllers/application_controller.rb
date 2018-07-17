@@ -12,4 +12,8 @@ class ApplicationController < Sinatra::Base
   get "/bio" do
     erb :karliebio
   end
+  
+  get "/karlies-kubs" do
+    erb :karlieskubs
+  end
 end
