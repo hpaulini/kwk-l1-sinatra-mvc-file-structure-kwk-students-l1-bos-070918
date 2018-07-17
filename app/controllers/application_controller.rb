@@ -10,6 +10,6 @@ class ApplicationController < Sinatra::Base
   end
   
   get "/bio" do
-    erb karliebio
+    erb :karliebio
   end
 end
