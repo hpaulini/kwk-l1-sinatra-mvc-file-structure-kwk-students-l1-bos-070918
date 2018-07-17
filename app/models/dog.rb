@@ -9,7 +9,7 @@ class Dog
   end
   
   def all
-    
+    []
   end
   # Replace with Dog clas
 end
