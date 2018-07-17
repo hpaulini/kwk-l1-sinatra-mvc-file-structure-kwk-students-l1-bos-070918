@@ -7,5 +7,8 @@ class Dog
     @name = name
     @age = age
   end
+  
+  def all
+  end
   # Replace with Dog clas
 end
