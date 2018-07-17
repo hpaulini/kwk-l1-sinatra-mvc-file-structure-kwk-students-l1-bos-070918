@@ -1,7 +1,7 @@
 class Dog
   
   
-  attr_accessor :breed, :name :age
+  attr_accessor :breed, :name, :age
   
   @@dog_array = []
   
