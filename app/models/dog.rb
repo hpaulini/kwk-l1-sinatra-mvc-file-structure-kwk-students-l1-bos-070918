@@ -14,5 +14,5 @@ class Dog
   def all
     @@array
   end
-  # Replace with Dog clas
+
 end
