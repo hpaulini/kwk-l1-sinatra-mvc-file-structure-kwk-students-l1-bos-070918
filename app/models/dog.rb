@@ -12,7 +12,7 @@ class Dog
   end
   
   def all
-    
+    @@array
   end
   # Replace with Dog clas
 end
